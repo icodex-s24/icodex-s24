@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hello! I'm **Michael**
+Hello! I'm **Michael**.
 
 ### 🛠 What I Do
 I'm a passionate programmer who loves exploring new technologies and experimenting with them. I write code, maintain projects, learn from hands-on experiences, and lead by example. 🌟
