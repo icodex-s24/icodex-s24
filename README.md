@@ -1,7 +1,6 @@
 ## 👋 About Me
 
-Hello! I'm **Michael**, and welcome to my tech blog! 🚀  
-This blog is my personal space to share insights, lessons, and experiences I gain from my daily work as a software developer. 💻
+Hello! I'm **Michael**
 
 ### 🛠 What I Do
 I'm a passionate programmer who loves exploring new technologies and experimenting with them. I write code, maintain projects, learn from hands-on experiences, and lead by example. 🌟
