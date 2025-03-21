@@ -1,4 +1,4 @@
-## 👋 I'm **Michael**.
+## 👋 I'm **Cody**.
 
 ### 🛠 What I Do
 I'm a passionate programmer who loves exploring new technologies and experimenting with them.
